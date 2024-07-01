@@ -78,7 +78,7 @@ let gameCounter = 100;
 
 // Stack (Primitive), Heap (Non-Primitive) \
 
-let GITHUB = "santu";
+let GITHUB = "sanu";
 
 let anothername = GITHUB;
 anothername = "Chaiaurcode"
